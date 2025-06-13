@@ -1,0 +1,35 @@
+*{
+    font-family: "Arial Black", serif;
+    background-color: lightblue;
+    color: black;
+}
+
+.name, .about{
+    text-align: center;
+}
+
+.name {
+    font-size: 50px;
+}
+
+.intro {
+    font-size: 14px;
+}
+
+.interest-head {
+
+}
+
+a {
+    color: blue;
+}
+
+li[value="4"]{
+    color: grey;
+}
+
+.disc {
+    font-family: Serif, serif;
+    color: grey;
+    text-align: center;
+}
